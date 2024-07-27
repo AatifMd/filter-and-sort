@@ -1,0 +1,47 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "image": "images/card.jfif",
+        "releaseYear": 2010,
+        "imdbRating": 8.8
+      },
+      {
+        "id": 2,
+        "title": "The Dark Knight",
+        "image": "images/card2.jfif",
+        "releaseYear": 2008,
+        "imdbRating": 7.0
+      },
+      {
+        "id": 3,
+        "title": "Interstellar",
+        "image": "images/card3.jfif",
+        "releaseYear": 2014,
+        "imdbRating": 8.6
+      },
+      {
+        "id": 4,
+        "title": "Inception",
+        "image": "images/card3.jfif",
+        "releaseYear": 2005,
+        "imdbRating": 6.8
+      },
+      {
+        "id": 5,
+        "title": "The Dark Knight",
+        "image": "images/card.jfif",
+        "releaseYear": 2003,
+        "imdbRating": 9.0
+      },
+      {
+        "id": 6,
+        "title": "Interstellar",
+        "image": "images/card2.jfif",
+        "releaseYear": 2020,
+        "imdbRating": 6
+      }
+    ]
+  }
+  

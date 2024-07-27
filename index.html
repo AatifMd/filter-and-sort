@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>use db.json file</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <form action="#">
+          <div class="controls">
+            <div class="filter-container">
+              <input
+                type="number"
+                class="filterYear"
+                placeholder="Enter Year"
+              />
+              <button class="filter">Filter</button>
+            </div>
+            <select name="sort" id="sortMovies" class="sortMovies">
+              <option value="imdbRating-asc">Sort by IMDb Rating (Asc)</option>
+              <option value="imdbRating-desc">
+                Sort by IMDb Rating (Desc)
+              </option>
+            </select>
+          </div>
+        </form>
+        <h1>Movie List</h1>
+        <div id="movieList" class="movie-list"></div>
+      </div>
+    </header>
+    <script src="app.js"></script>
+  </body>
+</html>
