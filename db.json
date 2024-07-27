@@ -63,7 +63,7 @@
         },
         {
           "id": 3,
-          "imageURL": "burger.jfif",
+          "imageURL": "/burger.jfif",
           "title": "Burger",
           "description": "Delicious pasta with tomato sauce",
           "price": 12.99,
@@ -87,7 +87,7 @@
         },
         {
           "id": 6,
-          "imageURL": "burger.jfif",
+          "imageURL": "/burger.jfif",
           "title": "Burger",
           "description": "Cheesy pizza with pepperoni",
           "price": 15.99,
