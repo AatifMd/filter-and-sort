@@ -47,7 +47,7 @@
     "menu-items": [
         {
           "id": 1,
-          "imageURL": "images/pasta.jfif",
+          "imageURL": "images/card.jfif",
           "title": "Pasta",
           "description": "Delicious pasta with tomato sauce",
           "price": 12.99,
@@ -55,7 +55,7 @@
         },
         {
           "id": 2,
-          "imageURL": "images/pasta.jfif",
+          "imageURL": "images/card.jfif",
           "title": "Pizza",
           "description": "Cheesy pizza with pepperoni",
           "price": 15.99,
@@ -63,7 +63,7 @@
         },
         {
           "id": 3,
-          "imageURL": "images/pasta.jfif",
+          "imageURL": "images/card.jfif",
           "title": "Burger",
           "description": "Delicious pasta with tomato sauce",
           "price": 12.99,
@@ -71,7 +71,7 @@
         },
         {
           "id": 4,
-          "imageURL": "images/pasta.jfif",
+          "imageURL": "images/card.jfif",
           "title": "Pizza",
           "description": "Cheesy pizza with pepperoni",
           "price": 15.99,
@@ -79,7 +79,7 @@
         },
         {
           "id": 5,
-          "imageURL": "images/pasta.jfif",
+          "imageURL": "images/card.jfif",
           "title": "Pasta",
           "description": "Delicious pasta with tomato sauce",
           "price": 12.99,
@@ -87,7 +87,7 @@
         },
         {
           "id": 6,
-          "imageURL": "images/pasta.jfif",
+          "imageURL": "images/card.jfif",
           "title": "Burger",
           "description": "Cheesy pizza with pepperoni",
           "price": 15.99,
