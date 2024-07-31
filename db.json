@@ -50,48 +50,48 @@
           "imageURL": "https://foodhub.scene7.com/is/image/woolworthsltdprod/Easy-chicken-and-bacon-pasta:Desktop-1300x658",
           "title": "Pasta",
           "description": "Delicious pasta with tomato sauce",
-          "price": 12.99,
-          "ratings": 4.5
+          "price": 15,
+          "ratings": 4
         },
         {
           "id": 2,
           "imageURL": "https://recipesblob.oetker.in/assets/d8a4b00c292a43adbb9f96798e028f01/1272x764/pizza-pollo-arrostojpg.jpg",
           "title": "Pizza",
           "description": "Cheesy pizza with pepperoni",
-          "price": 15.99,
-          "ratings": 4.7
+          "price": 25,
+          "ratings": 5
         },
         {
           "id": 3,
           "imageURL": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2021/09/beef-burger.jpg",
           "title": "Burger",
           "description": "Delicious pasta with tomato sauce",
-          "price": 12.99,
-          "ratings": 4.5
+          "price": 20,
+          "ratings": 3
         },
         {
           "id": 4,
-          "imageURL": "https://recipesblob.oetker.in/assets/d8a4b00c292a43adbb9f96798e028f01/1272x764/pizza-pollo-arrostojpg.jpg",
-          "title": "Pizza",
-          "description": "Cheesy pizza with pepperoni",
-          "price": 15.99,
+          "imageURL": "https://www.subbuskitchen.com/wp-content/uploads/2014/01/Veg-Noodles.jpg",
+          "title": "Noodles",
+          "description": "Chinees Noodles",
+          "price": 30,
           "ratings": 4.7
         },
         {
           "id": 5,
-          "imageURL": "https://foodhub.scene7.com/is/image/woolworthsltdprod/Easy-chicken-and-bacon-pasta:Desktop-1300x658",
-          "title": "Pasta",
-          "description": "Delicious pasta with tomato sauce",
-          "price": 12.99,
+          "imageURL": "https://c.ndtvimg.com/2023-03/0m65kep_samosa_625x300_10_March_23.jpg",
+          "title": "Samosa",
+          "description": "Delicious Samosa with tomato sauce",
+          "price": 12,
           "ratings": 4.5
         },
         {
           "id": 6,
-          "imageURL": "https://staticcookist.akamaized.net/wp-content/uploads/sites/22/2021/09/beef-burger.jpg",
-          "title": "Burger",
-          "description": "Cheesy pizza with pepperoni",
-          "price": 15.99,
-          "ratings": 4.7
+          "imageURL": "https://i.ytimg.com/vi/Z9Y60u8tI9M/maxresdefault.jpg",
+          "title": "Wadapao",
+          "description": "Fresh Wahapao with greeen chillies",
+          "price": 10,
+          "ratings": 3
         }
       ]  
   }
