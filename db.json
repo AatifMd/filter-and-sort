@@ -93,6 +93,13 @@
           "price": 10,
           "ratings": 3
         }
-      ]  
+      ],
+      "todoList":[
+        { "title": "Learn React"},
+        { "title": "Build Todo App"},
+        { "title": "Buy Milk"},
+        { "title": "Go to College"}
+
+      ] 
   }
   
