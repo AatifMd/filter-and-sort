@@ -105,10 +105,10 @@
   {
     "id": 1,
     "no_of_chapters": 6,
-    "author": "Masai",
-    "cover_photo": "https://m.media-amazon.com/images/I/61svWgrmT0L._AC_UF1000,1000_QL80_.jpg",
-    "book_name": "Full-Stack Web Development",
-    "category": "Novel",
+    "author": "Chris Notherhood",
+    "cover_photo": "https://m.media-amazon.com/images/I/41P3Z+TTdML._SL500_.jpg",
+    "book_name": "Be Mentally strong",
+    "category": "Motivational",
     "release_year": 2019,
     "chapters": [
       {
@@ -123,12 +123,12 @@
   },
   {
     "id": 2,
-    "no_of_chapters": 6,
-    "author": "Masai",
-    "cover_photo": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-8811-5",
-    "book_name": "Full-Stack Web Development",
-    "category": "Science_Fiction",
-    "release_year": 2020,
+    "no_of_chapters": 10,
+    "author": "Tom Bowser",
+    "cover_photo": "https://bukovero.com/wp-content/uploads/2016/07/Harry_Potter_and_the_Cursed_Child_Special_Rehearsal_Edition_Book_Cover.jpg",
+    "book_name": "Harry Proter",
+    "category": "Novel",
+    "release_year": 2010,
     "chapters": [
       {
         "name": "HTML",
@@ -142,12 +142,12 @@
   },
   {
     "id": 3,
-    "no_of_chapters": 6,
-    "author": "Masai",
-    "cover_photo": "https://lh4.googleusercontent.com/HSD0yq-L3R-HZRneYrs1DfJopSAw9HRBy40sRb7XF6kYL4asbNZgEGv69ARrM3jVU7oNvll4gGb5FQzWTsk-E3gAP6VeHuvC55lPQNN9a2HZxmjVhdB0XPMu5Z1wKo8azcrhCuXi-EW0Cdxn5rN00qYj5tHbl4QFx29PaA52cf-fifBGQTVwTsMmBw",
-    "book_name": "Data Science",
-    "category": "Novel",
-    "release_year": 2021,
+    "no_of_chapters": 5,
+    "author": "Sinan",
+    "cover_photo": https://d29xot63vimef3.cloudfront.net/image/history-books/26-9.jpg",
+    "book_name": "Ancianet World",
+    "category": "History",
+    "release_year": 2005,
     "chapters": [
       {
         "name": "HTML",
@@ -163,9 +163,9 @@
     "id": 4,
     "no_of_chapters": 6,
     "author": "Masai",
-    "cover_photo": "https://bookcover4u.com/pro/Educational-book-cover-design-P1484804032EDB-Java-web-design-internet-business-java.jpg",
-    "book_name": "Java",
-    "category": "Science_Fiction",
+    "cover_photo": "https://m.media-amazon.com/images/I/916kc2876fL._AC_UF1000,1000_QL80_.jpg",
+    "book_name": "History of India",
+    "category": "History",
     "release_year": 2022,
     "chapters": [
       {
@@ -181,10 +181,10 @@
   {
     "id": 5,
     "no_of_chapters": 6,
-    "author": "Masai",
-    "cover_photo": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4302-0072-7",
-    "book_name": "Python",
-    "category": "Thriller",
+    "author": "Marco",
+    "cover_photo": "https://marketplace.canva.com/EAFVqX7HRok/1/0/1003w/canva-black-yellow-illustrated-motivational-book-cover-80DjFOW16HU.jpg",
+    "book_name": "Thoughtfull",
+    "category": "Motivational",
     "release_year": 2018,
     "chapters": [
       {
@@ -199,12 +199,12 @@
   },
   {
     "id": 6,
-    "no_of_chapters": 6,
-    "author": "Masai",
-    "cover_photo": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-7407-1",
-    "book_name": "C++",
-    "category": "Thriller",
-    "release_year": 2017,
+    "no_of_chapters": 10,
+    "author": "Tom Bowser",
+    "cover_photo": "https://m.media-amazon.com/images/I/713TNEBuecL._AC_UF1000,1000_QL80_.jpg",
+    "book_name": "Sky full of Kites",
+    "category": "Novel",
+    "release_year": 2010,
     "chapters": [
       {
         "name": "HTML",
@@ -219,9 +219,9 @@
   {
     "id": 7,
     "no_of_chapters": 6,
-    "author": "Masai",
-    "cover_photo": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-8176-5",
-    "book_name": "Angular",
+    "author": "Rihan",
+    "cover_photo": "https://www.ikaruna.eu/wp-content/uploads/2020/07/BinaryDust.jpg",
+    "book_name": "Binary Dust",
     "category": "Novel",
     "release_year": 2016,
     "chapters": [
@@ -238,10 +238,10 @@
   {
     "id": 8,
     "no_of_chapters": 6,
-    "author": "Masai",
-    "cover_photo": "https://media.springernature.com/full/springer-static/cover-hires/book/978-1-4842-8294-6",
-    "book_name": "React",
-    "category": "Science_Fiction",
+    "author": "Simon",
+    "cover_photo": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781681777672/the-little-book-of-big-history-9781681777672_hr.jpg",
+    "book_name": "Big History",
+    "category": "History",
     "release_year": 2015,
     "chapters": [
       {
@@ -254,14 +254,14 @@
       }
     ]
   },
-  {
+   {
     "id": 9,
     "no_of_chapters": 6,
     "author": "Masai",
-    "cover_photo": "https://m.media-amazon.com/images/I/61rlDuHh8yL._AC_UF1000,1000_QL80_.jpg",
-    "book_name": "SQL",
-    "category": "Motivational",
-    "release_year": 2014,
+    "cover_photo": "https://www.designforwriters.com/wp-content/uploads/2017/10/design-for-writers-book-cover-tf-2-a-million-to-one.jpg",
+    "book_name": "A Million to one",
+    "category": "Novel",
+    "release_year": 2022,
     "chapters": [
       {
         "name": "HTML",
@@ -277,8 +277,8 @@
     "id": 10,
     "no_of_chapters": 6,
     "author": "Masai",
-    "cover_photo": "https://image.slidesharecdn.com/dsabook-180808152925/85/Dsa-book-1-320.jpg",
-    "book_name": "Data structure",
+    "cover_photo": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/motivational-self-help-book-cover-design-template-549362a7c9d568279e866eb81510239c_screen.jpg?ts=1704115831",
+    "book_name": "Rise above wilderness",
     "category": "Motivational",
     "release_year": 2013,
     "chapters": [
