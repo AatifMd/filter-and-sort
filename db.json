@@ -144,7 +144,7 @@
     "id": 3,
     "no_of_chapters": 5,
     "author": "Sinan",
-    "cover_photo": https://d29xot63vimef3.cloudfront.net/image/history-books/26-9.jpg",
+    "cover_photo": "https://d29xot63vimef3.cloudfront.net/image/history-books/26-9.jpg",
     "book_name": "Ancianet World",
     "category": "History",
     "release_year": 2005,
